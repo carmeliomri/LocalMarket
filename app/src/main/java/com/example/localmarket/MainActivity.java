@@ -1,4 +1,4 @@
-package com.example.localmarket;
+package com.example.LocalMarket;
 
 import androidx.activity.result.ActivityResult;
 import androidx.activity.result.ActivityResultCallback;
